@@ -2,8 +2,6 @@ package com.example.demo.hms;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 import java.net.URLEncoder;
 import java.text.MessageFormat;
